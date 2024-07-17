@@ -18,8 +18,8 @@ This project scrapes hockey team data from a website and processes it into an Ex
 
 1. **Clone the repository**:
    ```bash
-   git clone 
-   cd hockey-team-scraper
+   git clone https://github.com/sushantch12/Scrap-all-hockey-team.git 
+  
    
 2. **Create a virtual environment **:
 
